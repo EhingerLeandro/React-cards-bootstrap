@@ -1,2 +1,7 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
+body{
+    background:linear-gradient(to right,  #a05, #405);
+    background-size:cover;
+    height:100vh; 
+}
